@@ -9,3 +9,4 @@ Learning the AVR architecture on an ATmega328P on an Arduino Nano board.
 ## Port manipulation
 
 - [Knight Rider LEDs](https://github.com/Ivanf1/learning-ATmega328P/tree/master/projects/knight-rider-leds)
+- [Push buttons input](https://github.com/Ivanf1/learning-ATmega328P/tree/master/projects/push-buttons)
