@@ -11,3 +11,7 @@ Learning the AVR architecture on an ATmega328P on an Arduino Nano board.
 - [I/O registers](https://github.com/Ivanf1/learning-ATmega328P/tree/master/projects/io-registers)
 - [Knight Rider LEDs](https://github.com/Ivanf1/learning-ATmega328P/tree/master/projects/knight-rider-leds)
 - [Push buttons input](https://github.com/Ivanf1/learning-ATmega328P/tree/master/projects/push-buttons)
+
+## Interrupts
+
+- [External interrupt](https://github.com/Ivanf1/learning-ATmega328P/tree/master/projects/external-interrupt)
