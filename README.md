@@ -15,3 +15,4 @@ Learning the AVR architecture using an ATmega328P on an Arduino Nano board.
 ## Interrupts
 
 - [External interrupt](https://github.com/Ivanf1/learning-ATmega328P/tree/master/projects/external-interrupt)
+- [PCINT interrupt](https://github.com/Ivanf1/learning-ATmega328P/tree/master/projects/pcint-interrupt)
