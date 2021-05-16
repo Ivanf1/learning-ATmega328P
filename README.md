@@ -8,6 +8,8 @@ Learning the AVR architecture using an ATmega328P on an Arduino Nano board.
 
 [Arduino Nano pinout](https://content.arduino.cc/assets/Pinout-NANO_latest.pdf "Arduino Nano pinout")
 
+[Inline Assembly](https://www.nongnu.org/avr-libc/user-manual/inline_asm.html "Inline Assembly")
+
 ## I/O Ports
 
 - [I/O registers](https://github.com/Ivanf1/learning-ATmega328P/tree/master/projects/io-registers)
