@@ -25,3 +25,4 @@ Learning the AVR architecture using an ATmega328P on an Arduino Nano board.
 ### Timers
 
 - [LED blink](https://github.com/Ivanf1/learning-ATmega328P/tree/master/projects/blink-timer)
+- [Measuring code execution speed in time and clock cycles](https://github.com/Ivanf1/learning-ATmega328P/tree/master/projects/code-speed)
